@@ -6,7 +6,7 @@ Exploratory Data Analysis Project with POWER BI, SQL, EXCEL
 INTERNSHIP PERIOD: 15 JULY – 15 AUGUST 2024 
 
 OBJECTIVE:
-This project explores Bird strike data of the US between 2000-2011, to understand top-performing branches and products, sales trends of different products & customer behavior. The aim is to study how sales strategies can be improved and optimized. Ververidge provided the data set to complete the project and extract various information. Here in this project, I developed a power BI dashboard to present insights into Bird strike data, highlighting region-specific and item-specific strikes analyses across different years, quarters, months, and days. This comprehensive dashboard offers detailed insights into various strikes. 
+This project explores Bird strike data of the US between 2000-2011, to understand top-performing branches and products, sales trends of different products & customer behavior. The aim is to study how sales strategies can be improved and optimized. Vervebridge provided the data set to complete the project and extract various information. Here in this project, I developed a power BI dashboard to present insights into Bird strike data, highlighting region-specific and item-specific strikes analyses across different years, quarters, months, and days. This comprehensive dashboard offers detailed insights into various strikes. 
 
 Problem Statement:
 
